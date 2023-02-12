@@ -1,0 +1,80 @@
+# ninja log v5
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	97c4a6294791e616
+7844	8697	1669818094731029491	CMakeFiles/burger_staggered_animation.dir/my_application.cc.o	19a0a88057692db3
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_engine.h	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_view.h	97c4a6294791e616
+5	7843	0	flutter/_phony_	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	97c4a6294791e616
+8913	9141	0	CMakeFiles/install.util	a3ff39c24c57bf1d
+8697	8913	1669818094951043645	intermediates_do_not_run/burger_staggered_animation	b4d786c1bc382898
+7844	8575	1669818094607021514	CMakeFiles/burger_staggered_animation.dir/flutter/generated_plugin_registrant.cc.o	f53a286a20d55e4b
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	97c4a6294791e616
+21834	22644	1669649265923211876	CMakeFiles/burger_staggered_animation.dir/main.cc.o	a92b1ec16a2be346
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_value.h	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/libflutter_linux_gtk.so	97c4a6294791e616
+5	7843	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/libflutter_linux_gtk.so	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_engine.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_value.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_view.h	97c4a6294791e616
+3	6819	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	97c4a6294791e616
+3	6819	0	flutter/_phony_	97c4a6294791e616
+6820	7495	1669820881779587795	CMakeFiles/burger_staggered_animation.dir/flutter/generated_plugin_registrant.cc.o	f53a286a20d55e4b
+6820	7550	1669820881835591080	CMakeFiles/burger_staggered_animation.dir/my_application.cc.o	19a0a88057692db3
+7550	7740	1669820882027602341	intermediates_do_not_run/burger_staggered_animation	b4d786c1bc382898
+7741	7975	0	CMakeFiles/install.util	a3ff39c24c57bf1d
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/libflutter_linux_gtk.so	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_engine.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_value.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/fl_view.h	97c4a6294791e616
+10	7657	0	/home/hamza/Flutter Projects/burger_staggered_animation/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	97c4a6294791e616
+10	7657	0	flutter/_phony_	97c4a6294791e616
+7658	8655	1669823601294323195	CMakeFiles/burger_staggered_animation.dir/flutter/generated_plugin_registrant.cc.o	f53a286a20d55e4b
+7658	8700	1669823601338324715	CMakeFiles/burger_staggered_animation.dir/my_application.cc.o	19a0a88057692db3
+8700	8944	1669823601586333284	intermediates_do_not_run/burger_staggered_animation	b4d786c1bc382898
+8944	9166	0	CMakeFiles/install.util	a3ff39c24c57bf1d
